@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<link rel="stylesheet" href="styles.css">
+<title>Anastasia Trammell Page</title> 
+</head> 
+ 
+<body> 
+  <h1>Welcome to Anastasia's Website!</h1> 
+  <h3 title="This is just the first page...keep reading">The life and adventures of Anastasia "Stacy" Trammell.</h3> 
+<br>
+ 
+<div class="social_buttons"> 
+ 
+  <a href="https://www.facebook.com/stacy.trammell.3"> 
+    <img src= "https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-256.png" alt="https://www.facebook.com/stacy.trammell.3" width= "30" height="30"> 
+  </a> 
+ 
+  <a href="https://twitter.com/stacytrammell"> 
+    <img src= "https://cdn4.iconfinder.com/data/icons/free-large-twitter-icons/256/Twitter_button.png" alt="https://twitter.com/stacytrammell" width="30" height="30"> 
+  </a> 
+</div> 
+<br>
+
+<address>
+8818 Travis Hills Dr #124 <br>
+Austin,TX 78735 <br>
+<a href="anastasiatrammell@gmail.com">anastasiatrammell@gmail.com </a> <br>
+</address>
+ 
+</body> 
+</html>
