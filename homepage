@@ -45,7 +45,6 @@
                 position: fixed;
                 bottom: 14px;
                 left: 75%;
-                
             }
             
         </style>
